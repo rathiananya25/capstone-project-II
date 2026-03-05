@@ -58,7 +58,7 @@ Module 2: Model Development & Training
 Implements and trains the Vision Transformer model.
 Module 3: Prediction & Visualization
 Generates predictions and displays classification results.
-git clone https://github.com/yourusername/pneumonia-detection-vit.git
+https://github.com/rathiananya25/capstone-project-II/blob/main/capstone%202.ipynb
 cd pneumonia-detection-vit
 pip install -r requirements.txt
 python main.py
